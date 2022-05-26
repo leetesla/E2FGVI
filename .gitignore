@@ -1,5 +1,5 @@
 # Customized
-*.pth
+#*.pth
 *.pt
 keys.txt
 results/
